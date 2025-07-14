@@ -12,11 +12,11 @@
 
 ## 📊 Estadísticas de GitHub
 
-<a href="https://github.com/Hackeroot-932">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Hackeroot-932&show_icons=true&theme=radical&include_all_commits=true&hide=contribs&rank_icon=github" />
+<a href="https://github.com/Zsec-932">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Zsec-932&show_icons=true&theme=radical&include_all_commits=true&hide=contribs&rank_icon=github" />
 </a>
-<a href="https://github.com/Hackeroot-932">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeroot-932&layout=compact&langs_count=8&theme=radical" />
+<a href="https://github.com/Zsec-932">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zsec-932&layout=compact&langs_count=8&theme=radical" />
 </a>
 
 
