@@ -1,8 +1,6 @@
-# 👋 ¡Hola! Soy Hackeroot-932
+# 👋 ¡Hola! Soy Zsec
 
 🧠 Soy un apasionado por la tecnología, el desarrollo de software, la ciberseguridad y la administración de sistemas. Me gusta aprender cosas nuevas, colaborar en proyectos interesantes y compartir conocimiento con la comunidad.
-
----
 
 ## 🚀 Sobre mí
 
@@ -12,43 +10,14 @@
 - 📚 Siempre en constante aprendizaje de nuevas técnicas de desarrollo y seguridad
 - 🛠️ Aportando a proyectos de código abierto y creando los míos propios
 
----
-
 ## 📊 Estadísticas de GitHub
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Hackeroot-932&show_icons=true&theme=radical&include_all_commits=true&hide=contribs&rank_icon=github" 
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Hackeroot-932&show_icons=true&theme=default&include_all_commits=true&hide=contribs&rank_icon=github" 
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Hackeroot-932&show_icons=true&theme=default&include_all_commits=true&hide=contribs&rank_icon=github" 
-    alt="Estadísticas de GitHub de Hackeroot-932"
-  />
-</picture>
-
----
-
-## 🧠 Lenguajes más usados
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeroot-932&layout=donut-vertical&langs_count=8&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🔥 Repositorios destacados
-
-<a href="https://github.com/Hackeroot-932/github-hacktools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackeroot-932&repo=github-hacktools&theme=radical" />
+<a href="https://github.com/Hackeroot-932">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Hackeroot-932&show_icons=true&theme=radical&include_all_commits=true&hide=contribs&rank_icon=github" />
 </a>
-<a href="https://github.com/Hackeroot-932/automation-scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hackeroot-932&repo=automation-scripts&theme=radical" />
+<a href="https://github.com/Hackeroot-932">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackeroot-932&layout=compact&langs_count=8&theme=radical" />
 </a>
-
----
 
 ## 📈 Otros detalles
 
